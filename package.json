@@ -2,7 +2,7 @@
   "name": "ainara-theme",
   "displayName": "Ainara Theme",
   "description": "A premium, luxury-minimal dark theme inspired by the depth of petroleum green and slate hues. Crafted for focus.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "Nara-Technologies",
   "license": "MIT",
   "icon": "icon.png",
@@ -29,12 +29,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/ainara"
+    "url": "https://github.com/nara-technologies/ainara-theme"
   },
   "bugs": {
-    "url": "https://github.com/your-username/ainara/issues"
+    "url": "https://github.com/nara-technologies/ainara-theme/issues"
   },
-  "homepage": "https://github.com/your-username/ainara#readme",
+  "homepage": "https://github.com/nara-technologies/ainara-theme#readme",
   "contributes": {
     "themes": [
       {

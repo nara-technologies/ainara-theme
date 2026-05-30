@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
+## [1.0.3] - 2026-05-30
+
+### Changed
+- **Asset Links:** Replaced local relative image URLs (logo and screenshots) with absolute URLs pointing to GitHub to ensure they render correctly on the VS Code Marketplace.
+- **Metadata:** Corrected repository, bug tracker, and homepage URLs in `package.json` and `README.md` to reference the `nara-technologies` GitHub org.
+
 ## [1.0.2] - 2026-05-30
 
 ### Added

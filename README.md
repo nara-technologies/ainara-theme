@@ -1,7 +1,7 @@
 # Ainara Theme - Dark VS Code Theme
 
 <p align="center">
-  <img src="icon.png" alt="Ainara Logo" width="128" height="128" />
+  <img src="https://raw.githubusercontent.com/nara-technologies/ainara-theme/main/icon.png" alt="Ainara Logo" width="128" height="128" />
 </p>
 
 A premium, luxury-minimal dark theme for Visual Studio Code, inspired by the rich depth of petroleum green and slate hues. Painstakingly crafted for developers who value elegance, visual harmony, and uninterrupted focus.
@@ -11,23 +11,23 @@ A premium, luxury-minimal dark theme for Visual Studio Code, inspired by the ric
 ## Showcase
 
 ### TypeScript / JavaScript
-![TypeScript Showcase](assets/screenshots/showcase-ts.png)
+![TypeScript Showcase](https://raw.githubusercontent.com/nara-technologies/ainara-theme/main/assets/screenshots/showcase-ts.png)
 *Modern class structure, decorators, async/await, and type annotations.*
 
 ### Python
-![Python Showcase](assets/screenshots/showcase-py.png)
+![Python Showcase](https://raw.githubusercontent.com/nara-technologies/ainara-theme/main/assets/screenshots/showcase-py.png)
 *Functions, decorators, OOP, type hints, and list comprehensions.*
 
 ### HTML
-![HTML Showcase](assets/screenshots/showcase-html.png)
+![HTML Showcase](https://raw.githubusercontent.com/nara-technologies/ainara-theme/main/assets/screenshots/showcase-html.png)
 *Semantic markup, attributes, classes, and tag nested hierarchies.*
 
 ### CSS
-![CSS Showcase](assets/screenshots/showcase-css.png)
+![CSS Showcase](https://raw.githubusercontent.com/nara-technologies/ainara-theme/main/assets/screenshots/showcase-css.png)
 *Variables, custom properties, pseudo-classes, and layout properties.*
 
 ### JSON
-![JSON Showcase](assets/screenshots/showcase-json.png)
+![JSON Showcase](https://raw.githubusercontent.com/nara-technologies/ainara-theme/main/assets/screenshots/showcase-json.png)
 *Structured settings, objects, lists, numbers, and boolean values.*
 
 ---
@@ -57,7 +57,7 @@ A premium, luxury-minimal dark theme for Visual Studio Code, inspired by the ric
 If you want to install the extension manually:
 1. Clone this repository into your `.vscode/extensions` folder:
    ```bash
-   git clone https://github.com/nara-technologies/ainara.git ~/.vscode/extensions/ainara
+   git clone https://github.com/nara-technologies/ainara-theme.git ~/.vscode/extensions/ainara
    ```
 2. Restart VS Code.
 
@@ -103,7 +103,7 @@ If you want to fine-tune the colors, you can easily override them in your VS Cod
 
 If you find a syntax highlighting issue, have suggestions, or want to contribute:
 
-1. File a bug report or feature request on the [GitHub Issues](https://github.com/your-username/ainara/issues) page.
+1. File a bug report or feature request on the [GitHub Issues](https://github.com/nara-technologies/ainara-theme/issues) page.
 2. Fork the repository and make your changes.
 3. Submit a Pull Request.
 
