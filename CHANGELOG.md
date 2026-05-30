@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
+## [1.0.2] - 2026-05-30
+
+### Added
+- **License:** Added MIT License to the project.
+
+### Changed
+- **Asset Refactoring:** Updated icons and references from `logo.png` to `icon.png`.
+- **Showcase Structure:** Redesigned the showcase layout to use specific screenshot files (`screenshots/`) for each format.
+
 ## [1.0.0] - 2026-05-29
 
 ### Added
