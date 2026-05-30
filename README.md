@@ -1,4 +1,4 @@
-# Ainara - Dark VS Code Theme
+# Ainara Theme - Dark VS Code Theme
 
 <p align="center">
   <img src="icon.png" alt="Ainara Logo" width="128" height="128" />
