@@ -1,0 +1,46 @@
+{
+  "name": "ainara",
+  "displayName": "Ainara",
+  "description": "A premium, luxury-minimal dark theme inspired by the depth of petroleum green and slate hues. Crafted for focus.",
+  "version": "1.0.0",
+  "publisher": "Nara-Technologies",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#050D19",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "minimal",
+    "petroleum",
+    "teal",
+    "slate",
+    "modern",
+    "aesthetic",
+    "luxury"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ainara"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/ainara/issues"
+  },
+  "homepage": "https://github.com/your-username/ainara#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ainara Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ainara Dark-color-theme.json"
+      }
+    ]
+  }
+}
